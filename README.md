@@ -12,7 +12,9 @@ This project redefines evolutionary art by placing the **human user at the cente
 
 Each stroke—whether rectangle, circle, triangle, or line—is treated as an independently optimized entity. The PSO engine searches for the best version of that stroke (its position, angle, color, opacity, and size) while the human periodically influences the direction by choosing preferred shapes or pushing the system toward warmer colors, stronger contrast, lighter opacity, and more. The result is a **hybrid creative workflow** where computational precision meets human intuition.
 </div>
+<img width="2514" height="1390" alt="image" src="https://github.com/user-attachments/assets/112ef28b-7461-44ea-9fa5-4881f6d4786a" />
 
+<img width="2508" height="1402" alt="image" src="https://github.com/user-attachments/assets/274362d8-6651-4e5b-929e-ce151979956b" />
 
 ---
 
@@ -27,6 +29,7 @@ The algorithm reconstructs the target image **shape by shape**, but not all at o
 - **160 evolutionary steps** (by default) balance efficiency with visual richness.
 
 This produces a visual “growth” effect: the image emerges layer by layer, echoing how traditional artists build form through successive strokes.
+<img width="2486" height="1395" alt="image" src="https://github.com/user-attachments/assets/83709eee-06e7-42e7-a64f-150f5d145dca" />
 
 ---
 
@@ -39,6 +42,7 @@ At interactive checkpoints, the user can:
 - influence opacity and stroke size.
 
 This intentionally blends machine optimization with human taste, allowing each artwork to diverge from pure reconstruction and reflect **authorship, intention, and personality**. The system becomes a creative partner rather than a tool.
+<img width="2489" height="1390" alt="image" src="https://github.com/user-attachments/assets/e42abebb-34c0-437d-b670-a8e0a0908baf" />
 
 ---
 
@@ -51,6 +55,7 @@ As the evolutionary cycle progresses:
 - Error decreases rapidly at each shape, demonstrating PSO’s strong convergence for local image reconstruction.
 
 The cumulative effect is an artwork that is both **algorithmically precise** and **artistically guided**.
+<img width="2507" height="1388" alt="image" src="https://github.com/user-attachments/assets/adaaed6a-2f17-4657-906d-a7f572adb67c" />
 
 ---
 
@@ -60,10 +65,12 @@ A minimal explainability layer is included to help users understand which parame
 - **SHAP** gives a global ranking of parameter influence.  
 - **Permutation Importance** validates which parameters mattered most overall.  
 - **LIME** explains why one specific shape behaved the way it did.
+<img width="2494" height="1401" alt="image" src="https://github.com/user-attachments/assets/2bfd3848-29e0-474e-9a34-0e02aa9d64f8" />
 
 Across all methods, **opacity consistently emerges as the most powerful artistic driver**, shaping how strokes blend into the evolving canvas.
 
 Explainability in this project is not for debugging—it is to make creative decisions transparent and to show how algorithmic “understanding” aligns with human perception.
+<img width="2498" height="1403" alt="image" src="https://github.com/user-attachments/assets/5ab40109-58eb-4c79-b88c-2e45d6a00258" />
 
 ---
 
