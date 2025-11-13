@@ -105,6 +105,9 @@ These files document both the *artistic process* and the *evolutionary logic* be
 
 ## **📧 Contact**
 For collaboration or inquiries:  
+### Contact 1: s.m.hossein.mousavi@cyrusai.ir 
+### Contact 2: s.muhammad.hossein.mousavi@gmail.com 
+### Social: www.linkedin.com/in/smuhammadhosseinmousavi 
 **Seyed Muhammad Hossein Mousavi**  
 
 
