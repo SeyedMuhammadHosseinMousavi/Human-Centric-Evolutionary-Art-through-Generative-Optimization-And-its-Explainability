@@ -59,7 +59,7 @@ The cumulative effect is an artwork that is both **algorithmically precise** and
 
 ---
 
-## **🧠 Light Explainability (Optional)**
+## **🧠 Explainability**
 A minimal explainability layer is included to help users understand which parameters influenced reconstruction:
 
 - **SHAP** gives a global ranking of parameter influence.  
