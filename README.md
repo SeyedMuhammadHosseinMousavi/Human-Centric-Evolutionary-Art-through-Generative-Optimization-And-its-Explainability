@@ -5,9 +5,14 @@
 ---
 
 ## **🎨 Overview**
+
+<p align="justify">
+
 This project redefines evolutionary art by placing the **human user at the center of the creative loop**. Instead of letting an algorithm blindly optimize toward a target, the system blends **Particle Swarm Optimization (PSO)** with **direct human steering**, enabling artwork to evolve from simple geometric primitives into a fully reconstructed visual composition.
 
 Each stroke—whether rectangle, circle, triangle, or line—is treated as an independently optimized entity. The PSO engine searches for the best version of that stroke (its position, angle, color, opacity, and size) while the human periodically influences the direction by choosing preferred shapes or pushing the system toward warmer colors, stronger contrast, lighter opacity, and more. The result is a **hybrid creative workflow** where computational precision meets human intuition.
+
+</p>
 
 ---
 
