@@ -4,7 +4,7 @@
 
 ---
 
-https://youtu.be/u3Z5z1cWlik
+<iframe width="866" height="487" src="https://www.youtube.com/embed/u3Z5z1cWlik" title="Human Centric Evolutionary Art through Generative Optimization And its Explainability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **🎨 Overview**
 
