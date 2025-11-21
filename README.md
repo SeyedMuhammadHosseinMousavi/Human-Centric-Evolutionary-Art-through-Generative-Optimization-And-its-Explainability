@@ -4,7 +4,8 @@
 
 ---
 
-[▶ Watch on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/u3Z5z1cWlik))
+[![YouTube Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/u3Z5z1cWlik))
+
 
 
 ## **🎨 Overview**
